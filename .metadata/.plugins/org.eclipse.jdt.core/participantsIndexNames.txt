@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\mika\Documents\DEV\POE\POE_jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3812361759.index
+\prjjsp01\src
+C:\Users\mika\Documents\DEV\POE\POE_jee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1164820276.index
+\prjjsp01\src

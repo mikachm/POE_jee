@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\mika\Documents\DEV\POE\POE_jee\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2093409381.index
+1622546584.index
+3522885806.index
+3274002091.index
+3994883553.index
+3411533850.index
